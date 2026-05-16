@@ -12,7 +12,10 @@ The typst template for Shandong University letterhead.
 
 ## Example
 
-![example](https://raw.githubusercontent.com/arshtyi/typst-sdu-letter/main/template.png)
+|模拟字体|lxgw wenkai|
+|:-:|:-:|
+|![arshtyihand-1](https://raw.githubusercontent.com/arshtyi/typst-sdu-letter/main/template-arshtyihand-1.png)|![lxgwwenkai-1](https://raw.githubusercontent.com/arshtyi/typst-sdu-letter/main/template-lxgwwenkai-1.png)|
+|![arshtyihand-2](https://raw.githubusercontent.com/arshtyi/typst-sdu-letter/main/template-arshtyihand-2.png)|![lxgwwenkai-1](https://raw.githubusercontent.com/arshtyi/typst-sdu-letter/main/template-lxgwwenkai-2.png)|
 
 ## Usage
 
@@ -27,3 +30,7 @@ The different versions of the letterhead look different, including but not limit
 - Logo (position, size, layout, color, font)
 - Footer (position, color, font)
 - Horizontal line (color, position, thickness)
+
+## Note
+
+This does not fully reproduce handwriting, but it can be improved by using a more handwriting-like font, such as [zi2zi-JiT](https://github.com/kaonashi-tyc/zi2zi-JiT) and introducing some jitter.

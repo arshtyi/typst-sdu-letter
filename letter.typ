@@ -39,7 +39,7 @@
         },
         header-ascent: 0cm,
         header: align(center + bottom, {
-            image("assets/sdu.png", width: 64%, height: 64%, fit: "contain")
+            image("assets/fig/sdu.png", width: 64%, height: 64%, fit: "contain")
             v(1.1cm)
             style-line(4.02cm)
             style-line(4.14cm, thickness: .03cm)
